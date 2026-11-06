@@ -1,0 +1,17 @@
+{
+  "name": "ตารางเวรพยาบาล/ผู้ช่วยพยาบาล",
+  "short_name": "ตารางเวร",
+  "description": "ตารางเวร OT เงินเวร และแจ้งเตือน",
+  "lang": "th",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffe3ef",
+  "theme_color": "#ff6fa8",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
